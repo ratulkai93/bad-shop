@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name":"Racket",
+        "price":150.00,
+        "imgUrl":"src/assets/ASTROX99.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Shoe",
+        "price":120.00,
+        "imgUrl":"src/assets/65z3.jpg"  
+    },
+    {
+        "id": 3,
+        "name":"Jersey",
+        "price":99.00,
+        "imgUrl":"src/assets/kmt21.jpg"  
+    }
+]
